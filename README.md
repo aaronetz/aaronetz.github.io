@@ -1,2 +1,2 @@
-# aaronetz.github.io
-Public Pages
+# Demos
+[SuperPaint](superpaint/index.html)
