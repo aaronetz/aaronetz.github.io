@@ -1,6 +1,7 @@
 version:0
 string|app_name|U3VwZXJQYWludA==
 string|blur_strength|Qmx1ciBTdHJlbmd0aA==
+string|brush_preset_blur|Qmx1cg==
 string|brush_preset_custom_1|Q3VzdG9tIDE=
 string|brush_preset_custom_2|Q3VzdG9tIDI=
 string|brush_preset_custom_3|Q3VzdG9tIDM=
@@ -9,6 +10,7 @@ string|brush_preset_custom_5|Q3VzdG9tIDU=
 string|brush_preset_eraser|RXJhc2Vy
 string|brush_preset_more|TW9yZQ==
 string|brush_preset_oil|T2lsIHBhaW50
+string|brush_preset_splatter|U3BsYXR0ZXI=
 string|brush_preset_sponge|U3Bvbmdl
 string|brush_preset_spray|U3ByYXkgcGFpbnQ=
 string|brush_preset_watercolor|V2F0ZXJjb2xvcg==
