@@ -39,6 +39,9 @@ string|reset_color_presets_warning|QXJlIHlvdSBzdXJlIHlvdSB3YW50IHRvIHJlc2V0IHRoZ
 string|reset_color_presets|UmVzZXQgQ29sb3Jz
 string|reset_settings_warning|QXJlIHlvdSBzdXJlIHlvdSB3YW50IHRvIHJlc2V0IHRvIHRoZSBkZWZhdWx0IHNldHRpbmdzPw==
 string|reset_settings|UmVzZXQgU2V0dGluZ3M=
+string|reset_transform|UmVzZXQgVHJhbnNmb3Jt
+string|rotate_left|Um90YXRlIExlZnQ=
+string|rotate_right|Um90YXRlIFJpZ2h0
 string|save_image_failed|RmFpbGVkIHRvIHNhdmUgaW1hZ2Uh
 string|save_prompt|RW50ZXIgZmlsZSBuYW1l
 string|save|U2F2ZQ==
@@ -55,5 +58,8 @@ string|tab_brush|QnJ1c2ggUGFyYW1ldGVycw==
 string|tab_color|Q29sb3IgU2VsZWN0aW9u
 string|tab_image|SW1hZ2UgYW5kIFNpbXVsYXRpb24=
 string|transform_canvas|VHJhbnNmb3JtIENhbnZhcw==
+string|undo|VW5kbw==
 string|viscosity|VmlzY29zaXR5
 string|yes|WWVz
+string|zoom_in|Wm9vbSBJbg==
+string|zoom_out|Wm9vbSBPdXQ=
