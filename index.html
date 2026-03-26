@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WoodenCloset | Apps by Aaron Netz</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 500px;
+            width: 90%;
+            padding: 40px;
+            background: #ffffff;
+            border-radius: 16px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+            text-align: center;
+        }
+        h1 {
+            margin-bottom: 5px;
+            color: #111;
+            font-size: 2.2em;
+        }
+        h2 {
+            font-size: 1.1em;
+            font-weight: normal;
+            color: #666;
+            margin-top: 0;
+            margin-bottom: 30px;
+        }
+        .featured-app {
+            background-color: #f8f9fa;
+            border: 1px solid #eaeaea;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            text-align: left;
+        }
+        .featured-app h3 {
+            margin-top: 0;
+            margin-bottom: 8px;
+            color: #2c3e50;
+        }
+        .featured-app p {
+            margin: 0;
+            color: #555;
+            font-size: 0.95em;
+            line-height: 1.4;
+        }
+        .portfolio-section {
+            margin-bottom: 35px;
+        }
+        .portfolio-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .store-links {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            padding: 14px 24px;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 1em;
+            transition: transform 0.2s, opacity 0.2s;
+        }
+        .btn svg {
+            width: 20px;
+            height: 20px;
+            fill: currentColor;
+        }
+        .btn-apple {
+            background-color: #000000;
+            color: #ffffff;
+        }
+        .btn-google {
+            background-color: #01875f;
+            color: #ffffff;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+            opacity: 0.95;
+        }
+        .support-section {
+            border-top: 1px solid #eee;
+            padding-top: 25px;
+            font-size: 0.95em;
+            color: #666;
+        }
+        .support-section a {
+            color: #0066cc;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .support-section a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>WoodenCloset</h1>
+        <h2>Apps by Aaron Netz</h2>
+
+        <div class="featured-app">
+            <h3>SuperPaint</h3>
+            <p>A fast, multiplatform physics-based painting application for having fun and making art. Available now on iOS and Android.</p>
+        </div>
+
+        <div class="portfolio-section">
+            <div class="portfolio-label">My Apps</div>
+            <div class="store-links">
+                <a href="https://apps.apple.com/us/developer/aharon-netz/id1887102261" class="btn btn-apple" target="_blank" rel="noopener noreferrer">
+                    <svg viewBox="0 0 384 512"><path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 24 184.8 24 273.5c0 67.7 27.9 136.8 59.8 182.2 28.5 40.8 61.2 41 84.7 41 24.5 0 33.9-15.9 66.8-15.9 33 0 42.1 15.9 67.4 15.9 24.5-.2 54.8-31.5 83.3-71.5 13.8-19.3 22-38.6 22.6-39.7-74.1-28.9-88.8-114-69.3-156.8zM243 85.4c21.5-26 35-60.2 31-95.4-32.8 1.3-67.4 21.8-88.8 47.4-19.8 23.6-35 59-30.8 93.6 36.3 2.8 67-19.6 88.6-45.6z"/></svg>
+                    Apple App Store
+                </a>
+                <a href="https://play.google.com/store/apps/developer?id=WoodenCloset" class="btn btn-google" target="_blank" rel="noopener noreferrer">
+                    <svg viewBox="0 0 512 512"><path d="M325.3 234.3L104.6 13l280.8 161.2-60.1 60.1zM47 0C34 6.8 25.3 19.2 25.3 35.3v441.3c0 16.1 8.7 28.5 21.7 35.3l256.6-256L47 0zm425.2 225.6l-58.9-34.1-65.7 64.5 65.7 64.5 60.1-34.1c18-14.3 18-46.5-1.2-60.8zM104.6 499l280.8-161.2-60.1-60.1L104.6 499z"/></svg>
+                    Google Play
+                </a>
+            </div>
+        </div>
+
+        <div class="support-section">
+            <p>Need support or have feedback?</p>
+            <p>Email: <a href="mailto:woodencloset@gmail.com">woodencloset@gmail.com</a></p>
+        </div>
+    </div>
+
+</body>
+</html>
