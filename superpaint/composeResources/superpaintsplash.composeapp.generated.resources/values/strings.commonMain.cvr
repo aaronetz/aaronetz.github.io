@@ -18,6 +18,8 @@ string|brush_preset_watercolor|V2F0ZXJjb2xvcg==
 string|brush_preset|QnJ1c2ggUHJlc2V0OiAlMSRz
 string|brush_size|QnJ1c2ggU2l6ZQ==
 string|cancel|Q2FuY2Vs
+string|child_mode_warning|RW50ZXIgS2lkcyBNb2RlPyBUbyBleGl0IEtpZHMgTW9kZSwgeW91IHdpbGwgbmVlZCB0byByZXN0YXJ0IHRoZSBhcHAu
+string|child_mode|S2lkcyBNb2Rl
 string|clear_warning|QXJlIHlvdSBzdXJlIHlvdSB3YW50IHRvIGNsZWFyIHRoZSBjYW52YXM/
 string|clear|Q2xlYXI=
 string|close|Q2xvc2U=
